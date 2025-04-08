@@ -1,9 +1,8 @@
 <div align="center" class="Header">
-  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1jNmk4YTVocGJuZnZ4eHY3cWM0Y2hmcmxsbG1kbjc4YWx6YzBmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif](https://i.pinimg.com/736x/45/74/22/4574220bdb8ec123f1443478b98b733c.jpg)" width="15%" height="15%"/><br/>
+  <img src="https://i.pinimg.com/736x/45/74/22/4574220bdb8ec123f1443478b98b733c.jpg" width="15%" height="15%"/><br/>
 </div>
 <div align="center" class="Contact">
-<a href="https://t.me/user0635"><img src="https://img.shields.io/badge/Telegram-008cf0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://discordapp.com/users/1359066294657224798"><img src="https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://t.me/pxtassium0"><img src="https://img.shields.io/badge/Telegram-008cf0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Qurclinc&style=flat-square&color=blue" alt="Visits"/>
